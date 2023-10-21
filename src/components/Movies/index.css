@@ -1,0 +1,9 @@
+.poster{
+      height: 350px;
+      width: 220px;
+      border-radius: 5px;
+}
+.movie-title{
+      font-size: 15px;
+      text-align: center;
+}
